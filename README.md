@@ -1,4 +1,4 @@
-## Oiii eu sou Mike Igor, programador e técnico em eletrônica!
+## Oi, sou Mike Igor, programador e técnico em eletrônica!
 
 <div align="center">
   <a href="https://github.com/mikemourao">
